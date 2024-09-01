@@ -5,6 +5,6 @@ I will be uploading my Power BI files from when I started learning the Basics, t
 **Branches**
 1. Learning the Basics
    - Where fundamentals of using Power BI are used
-   - 
+     
 2. Tutorials
    - Where basic transformations are being applied to one or more sources in Power BI
