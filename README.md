@@ -30,10 +30,3 @@ b. Map
 Reference Links:
 *Products Data: https://download.microsoft.com/download/1/4/E/14EDED28-6C58-4055-A65C-23B4DA81C4DE/Products.xlsx*
 *Orders Data: https://services.odata.org/V3/Northwind/Northwind.svc/*
-
-**4. Creating Calculated Columns**
-You use calculated columns as new Fields in the rows, axes, legends, and group areas of visualizations.
-
-Sample file used:
-Contoso Sales Sample for Power BI Desktop:
-https://download.microsoft.com/download/4/6/A/46AB5E74-50F6-4761-8EDB-5AE077FD603C/Contoso%20Sales%20Sample%20for%20Power%20BI%20Desktop.zip
